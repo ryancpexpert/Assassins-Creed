@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.spongepowered.api.plugin.Plugin"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.util.event.Subscribe"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.event.state.PreInitializationEvent"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.text.Text.Literal"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.entity.player.Player"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.world.World"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.entity.Entity"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.event.block.BlockBreakEvent"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.event.entity.player.PlayerInteractEvent"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.event.entity.living.human.HumanBreakBlockEvent"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.event.entity.player.PlayerBreakBlockEvent"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.event.entity.player.PlayerChangeBlockEvent"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.util.command.CommandCallable"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.text.format.TextColors"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.text.chat.ChatTypes"/>
+<fullyQualifiedTypeName name="com.google.common.base.Optional"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.text.TextBuilder"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.text.TextBuilder.Literal"/>
+<fullyQualifiedTypeName name="org.spongepowered.api.text.Texts"/>
+</qualifiedTypeNameHistroy>

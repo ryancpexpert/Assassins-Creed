@@ -1,0 +1,174 @@
+2015-04-03 19:21:34,442 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.ryancpexpert.Assassins-Creed:AssassinsCreed:0.0.1-SNAPSHOT @ C:\Users\Ryan\Documents\GitHub\Assassins-Creed\AssassinsCreed\pom.xml.
+2015-04-03 19:21:35,302 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AssassinsCreed/src/main/java
+2015-04-03 19:21:35,302 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AssassinsCreed/src/main/resources
+2015-04-03 19:21:35,302 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AssassinsCreed/src/test/java
+2015-04-03 19:21:35,302 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AssassinsCreed/src/test/resources
+2015-04-03 19:21:35,505 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.ryancpexpert.Assassins-Creed:AssassinsCreed:0.0.1-SNAPSHOT @ C:\Users\Ryan\Documents\GitHub\Assassins-Creed\AssassinsCreed\pom.xml.
+2015-04-03 19:21:36,771 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.ryancpexpert.Assassins-Creed:AssassinsCreed:0.0.1-SNAPSHOT @ C:\Users\Ryan\Documents\GitHub\Assassins-Creed\AssassinsCreed\pom.xml.
+2015-04-03 19:21:36,818 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:21:36,880 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:21:36,896 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:21:36,896 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:22:21,917 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.ryancpexpert.Assassins-Creed:AssassinsCreed:0.0.1-SNAPSHOT @ C:\Users\Ryan\Documents\GitHub\Assassins-Creed\AssassinsCreed\pom.xml.
+2015-04-03 19:22:21,917 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.spongepowered:spongeapi:jar:1.1-SNAPSHOT is missing, no dependency information available
+2015-04-03 19:22:21,995 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:22:21,995 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:22:21,995 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:22:21,995 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:26:21,715 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.spongepowered:spongeapi:jar:1.1-SNAPSHOT is missing, no dependency information available
+2015-04-03 19:27:00,568 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.ryancpexpert.Assassins-Creed:AssassinsCreed:0.0.1-SNAPSHOT @ C:\Users\Ryan\Documents\GitHub\Assassins-Creed\AssassinsCreed\pom.xml.
+2015-04-03 19:27:00,615 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:27:00,615 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:27:00,615 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:27:00,631 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:27:27,320 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.spongepowered:spongeapi:jar:1.1-SNAPSHOT is missing, no dependency information available
+2015-04-03 19:27:27,476 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.ryancpexpert.Assassins-Creed:AssassinsCreed:0.0.1-SNAPSHOT @ C:\Users\Ryan\Documents\GitHub\Assassins-Creed\AssassinsCreed\pom.xml.
+2015-04-03 19:27:27,491 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.spongepowered:spongeapi:jar:1.1-SNAPSHOT is missing, no dependency information available
+2015-04-03 19:27:27,523 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:27:27,523 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:27:27,538 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:27:27,538 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:28:56,068 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.spongepowered:spongeapi:jar:1.1-SNAPSHOT is missing, no dependency information available
+2015-04-03 19:28:56,068 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:28:56,068 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:28:56,084 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:28:56,084 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:29:32,581 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:29:32,581 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:29:32,581 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:29:32,596 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:29:33,674 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:29:33,674 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:29:33,674 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:29:33,674 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:46:53,474 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:46:53,474 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:46:53,474 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:46:53,474 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:49:05,923 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:49:05,923 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 19:49:05,923 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 19:49:05,923 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 21:26:55,180 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.ryancpexpert.Assassins-Creed:AssassinsCreed:0.0.1-SNAPSHOT @ C:\Users\Ryan\Documents\GitHub\Assassins-Creed\AssassinsCreed\pom.xml.
+2015-04-03 21:26:55,180 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.spongepowered:spongeapi:jar:1.1-SNAPSHOT is missing, no dependency information available
+2015-04-03 21:26:55,227 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 21:26:55,227 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 21:26:55,227 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 21:26:55,227 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 21:27:33,626 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.spongepowered:spongeapi:jar:1.1-SNAPSHOT is missing, no dependency information available
+2015-04-03 21:42:54,110 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 21:42:54,112 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 21:42:54,114 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 21:42:54,115 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 21:43:15,192 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.ryancpexpert.Assassins-Creed:AssassinsCreed:0.0.1-SNAPSHOT @ C:\Users\Ryan\Documents\GitHub\Assassins-Creed\AssassinsCreed\pom.xml.
+2015-04-03 21:43:15,995 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/org/spongepowered/spongeapi/1.1-SNAPSHOT/maven-metadata.xml
+2015-04-03 21:43:16,237 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.spongepowered.org/maven/org/spongepowered/spongeapi/1.1-SNAPSHOT/spongeapi-1.1-20150403.231903-345.pom
+2015-04-03 21:43:16,659 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/org/spongepowered/spongeapi/1.1-SNAPSHOT/spongeapi-1.1-20150403.231903-345.pom
+2015-04-03 21:43:16,864 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/google/guava/guava/17.0/guava-17.0.pom
+2015-04-03 21:43:17,095 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/guava/guava/17.0/guava-17.0.pom
+2015-04-03 21:43:17,269 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/guava/guava/17.0/guava-17.0.pom
+2015-04-03 21:43:17,461 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/google/guava/guava-parent/17.0/guava-parent-17.0.pom
+2015-04-03 21:43:17,541 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/guava/guava-parent/17.0/guava-parent-17.0.pom
+2015-04-03 21:43:17,759 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/guava/guava-parent/17.0/guava-parent-17.0.pom
+2015-04-03 21:43:17,971 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2015-04-03 21:43:18,050 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2015-04-03 21:43:18,235 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2015-04-03 21:43:18,461 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2015-04-03 21:43:18,553 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2015-04-03 21:43:18,703 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2015-04-03 21:43:18,902 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2015-04-03 21:43:18,981 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2015-04-03 21:43:19,248 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2015-04-03 21:43:19,464 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/org/ow2/asm/asm/5.0.3/asm-5.0.3.pom
+2015-04-03 21:43:19,552 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.3/asm-5.0.3.pom
+2015-04-03 21:43:19,691 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.3/asm-5.0.3.pom
+2015-04-03 21:43:19,909 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/org/ow2/asm/asm-parent/5.0.3/asm-parent-5.0.3.pom
+2015-04-03 21:43:20,005 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.3/asm-parent-5.0.3.pom
+2015-04-03 21:43:20,197 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.3/asm-parent-5.0.3.pom
+2015-04-03 21:43:20,405 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/org/ow2/ow2/1.3/ow2-1.3.pom
+2015-04-03 21:43:20,484 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom
+2015-04-03 21:43:20,713 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom
+2015-04-03 21:43:20,928 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/flowpowered/flow-math/1.0.0/flow-math-1.0.0.pom
+2015-04-03 21:43:21,017 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/flowpowered/flow-math/1.0.0/flow-math-1.0.0.pom
+2015-04-03 21:43:21,396 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/flowpowered/flow-math/1.0.0/flow-math-1.0.0.pom
+2015-04-03 21:43:21,612 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2015-04-03 21:43:21,740 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2015-04-03 21:43:21,932 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2015-04-03 21:43:22,151 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/ninja/leaping/configurate/configurate-hocon/1.0.1/configurate-hocon-1.0.1.pom
+2015-04-03 21:43:22,229 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ninja/leaping/configurate/configurate-hocon/1.0.1/configurate-hocon-1.0.1.pom
+2015-04-03 21:43:22,471 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ninja/leaping/configurate/configurate-hocon/1.0.1/configurate-hocon-1.0.1.pom
+2015-04-03 21:43:22,684 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/ninja/leaping/configurate/configurate-parent/1.0.1/configurate-parent-1.0.1.pom
+2015-04-03 21:43:22,783 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ninja/leaping/configurate/configurate-parent/1.0.1/configurate-parent-1.0.1.pom
+2015-04-03 21:43:23,016 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ninja/leaping/configurate/configurate-parent/1.0.1/configurate-parent-1.0.1.pom
+2015-04-03 21:43:23,228 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/typesafe/config/1.2.1/config-1.2.1.pom
+2015-04-03 21:43:23,321 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.pom
+2015-04-03 21:43:23,466 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/typesafe/config/1.2.1/config-1.2.1.pom
+2015-04-03 21:43:23,690 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/ninja/leaping/configurate/configurate-core/1.0.1/configurate-core-1.0.1.pom
+2015-04-03 21:43:23,771 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ninja/leaping/configurate/configurate-core/1.0.1/configurate-core-1.0.1.pom
+2015-04-03 21:43:23,941 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ninja/leaping/configurate/configurate-core/1.0.1/configurate-core-1.0.1.pom
+2015-04-03 21:43:24,159 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+2015-04-03 21:43:24,238 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+2015-04-03 21:43:24,412 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+2015-04-03 21:43:24,632 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/google/inject/guice/4.0-beta5/guice-4.0-beta5.pom
+2015-04-03 21:43:24,728 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/inject/guice/4.0-beta5/guice-4.0-beta5.pom
+2015-04-03 21:43:24,997 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/inject/guice/4.0-beta5/guice-4.0-beta5.pom
+2015-04-03 21:43:25,212 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/google/inject/guice-parent/4.0-beta5/guice-parent-4.0-beta5.pom
+2015-04-03 21:43:25,304 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/inject/guice-parent/4.0-beta5/guice-parent-4.0-beta5.pom
+2015-04-03 21:43:25,596 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/inject/guice-parent/4.0-beta5/guice-parent-4.0-beta5.pom
+2015-04-03 21:43:25,818 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/google/google/5/google-5.pom
+2015-04-03 21:43:25,904 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/google/5/google-5.pom
+2015-04-03 21:43:26,053 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/google/5/google-5.pom
+2015-04-03 21:43:26,299 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/javax/inject/javax.inject/1/javax.inject-1.pom
+2015-04-03 21:43:26,375 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2015-04-03 21:43:26,503 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2015-04-03 21:43:26,709 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2015-04-03 21:43:26,791 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2015-04-03 21:43:26,926 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2015-04-03 21:43:27,145 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/google/guava/guava/16.0.1/guava-16.0.1.pom
+2015-04-03 21:43:27,237 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.pom
+2015-04-03 21:43:27,561 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.pom
+2015-04-03 21:43:27,774 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
+2015-04-03 21:43:27,851 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
+2015-04-03 21:43:28,069 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
+2015-04-03 21:43:28,342 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.spongepowered.org/maven/org/spongepowered/spongeapi/1.1-SNAPSHOT/spongeapi-1.1-20150403.231903-345.jar
+2015-04-03 21:43:36,231 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/org/spongepowered/spongeapi/1.1-SNAPSHOT/spongeapi-1.1-20150403.231903-345.jar
+2015-04-03 21:43:36,424 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/google/guava/guava/17.0/guava-17.0.jar
+2015-04-03 21:43:36,634 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2015-04-03 21:43:36,828 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar
+2015-04-03 21:43:37,018 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/flowpowered/flow-math/1.0.0/flow-math-1.0.0.jar
+2015-04-03 21:43:37,219 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/ninja/leaping/configurate/configurate-hocon/1.0.1/configurate-hocon-1.0.1.jar
+2015-04-03 21:43:37,426 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.spongepowered.org/maven/com/typesafe/config/1.2.1/config-1.2.1.jar
+2015-04-03 21:43:40,531 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/typesafe/config/1.2.1/config-1.2.1.jar
+2015-04-03 21:43:40,712 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/ninja/leaping/configurate/configurate-core/1.0.1/configurate-core-1.0.1.jar
+2015-04-03 21:43:40,909 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar
+2015-04-03 21:43:41,098 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/com/google/inject/guice/4.0-beta5/guice-4.0-beta5.jar
+2015-04-03 21:43:41,284 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/javax/inject/javax.inject/1/javax.inject-1.jar
+2015-04-03 21:43:41,482 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spongepowered.org/maven/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2015-04-03 21:43:42,172 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/guava/guava/17.0/guava-17.0.jar
+2015-04-03 21:44:11,595 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/guava/guava/17.0/guava-17.0.jar
+2015-04-03 21:44:11,671 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2015-04-03 21:44:12,810 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2015-04-03 21:44:12,880 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar
+2015-04-03 21:44:13,650 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar
+2015-04-03 21:44:13,721 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/flowpowered/flow-math/1.0.0/flow-math-1.0.0.jar
+2015-04-03 21:44:15,807 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/flowpowered/flow-math/1.0.0/flow-math-1.0.0.jar
+2015-04-03 21:44:15,879 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ninja/leaping/configurate/configurate-hocon/1.0.1/configurate-hocon-1.0.1.jar
+2015-04-03 21:44:16,154 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ninja/leaping/configurate/configurate-hocon/1.0.1/configurate-hocon-1.0.1.jar
+2015-04-03 21:44:16,231 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ninja/leaping/configurate/configurate-core/1.0.1/configurate-core-1.0.1.jar
+2015-04-03 21:44:17,332 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ninja/leaping/configurate/configurate-core/1.0.1/configurate-core-1.0.1.jar
+2015-04-03 21:44:17,402 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar
+2015-04-03 21:44:17,930 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar
+2015-04-03 21:44:18,019 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/inject/guice/4.0-beta5/guice-4.0-beta5.jar
+2015-04-03 21:44:27,242 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/inject/guice/4.0-beta5/guice-4.0-beta5.jar
+2015-04-03 21:44:27,313 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2015-04-03 21:44:27,469 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2015-04-03 21:44:27,540 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2015-04-03 21:44:27,718 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2015-04-03 21:44:29,752 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 21:44:29,753 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 21:44:29,756 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 21:44:29,757 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 21:44:31,882 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 21:44:31,884 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-03 21:44:31,886 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-03 21:44:31,888 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

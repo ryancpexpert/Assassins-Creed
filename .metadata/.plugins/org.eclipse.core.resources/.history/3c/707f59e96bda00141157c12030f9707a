@@ -1,0 +1,27 @@
+package com.ryancpexpert.AssassinsCreed;
+
+import java.util.logging.Logger;
+
+import org.spongepowered.api.Game;
+import org.spongepowered.api.event.state.PreInitializationEvent;
+import org.spongepowered.api.event.state.ServerStartingEvent;
+import org.spongepowered.api.plugin.Plugin;
+import org.spongepowered.api.util.event.Subscribe;
+
+@Plugin(id = "AssassinsCreedPlugin", name = "AssassinsCreed", version = "1.0", dependencies = "")
+public class Main {
+	Game game;
+	Logger logger;
+	
+	@Subscribe
+	public void onPreInitialization(PreInitializationEvent event) {
+		game = event.getGame();
+		
+	}
+	
+	@Subscribe
+	public void onServerStarting(ServerStartingEvent event) {
+		logger.info("Hello World");
+	}
+	
+}

@@ -1,0 +1,5 @@
+package com.ryancpexpert.AssassinsCreed;
+
+public class CommandACSetContract {
+
+}
